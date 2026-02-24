@@ -152,11 +152,16 @@ Governance climate reflects how inclusive, transparent, and impactful decision-m
 The overall governance climate index (3.65) indicates a generally positive institutional environment.
 Strengths:
 a); Fairness of decisions (4.05)
+
 b); Democratic culture (3.98)
+
 c); Conflict reduction (3.85)
+
 However, two critical gaps emerge:
 d); Implementation of student recommendations (3.11)
+
 e); Equality in governance (3.01)
+
 These findings suggest that while procedural fairness is strong, substantive equality and implementation effectiveness are weaker. This indicates a possible perception of procedural inclusion without full decision-making parity.
 
 ## 3.2.6 Barriers to Effective Participation
@@ -173,10 +178,15 @@ Communication weaknesses (3.09) and inadequate training (3.09) suggest uneven in
 
 Correlation analysis reveals important institutional dynamics:
 1); Participation and Power (r = 0.676) – Strong relationship
+
 2); Participation and Governance Climate (r = 0.486) – Moderate relationship
+
 3); Power and Governance Climate (r = 0.512) – Moderate relationship
+
 4); Participation and Reform Proposals (r = 0.445) – Moderate relationship
+
 5); Barriers show weak relationships with participation
+
 The strongest relationship (0.676) suggests that empowerment significantly drives engagement. When leaders perceive legitimacy and authority, participation intensifies. The moderate relationship between governance climate and participation (0.486) suggests that inclusive environments encourage engagement, but empowerment mechanisms are more influential.
 Interestingly, barriers show weak correlations with participation. This suggests that structural obstacles alone do not suppress engagement; rather, empowerment and recognition appear more decisive.
 Implication: Strengthening legitimacy and authority structures may yield greater participation gains than merely reducing bureaucratic constraints.
@@ -184,15 +194,22 @@ Implication: Strengthening legitimacy and authority structures may yield greater
 # 4.0 Governance Gaps and Summary
 #### Major Strengths
 i); Strong perception of fairness and democratic culture
+
 ii); Active participation and attendance
+
 iii); High referent legitimacy among students
 
 #### Major Gaps
 a); Limited implementation of student recommendations
+
 b); Perceived inequality in governance spaces
+
 c); Information asymmetry before meetings
+
 d); Short leadership tenure and limited continuity
+
 e); Gender disparity in participation levels
+
 These gaps suggest that governance is structurally participatory but not fully empowered or equalized.
 # 5 Institutional Risk Areas
 #### Gender Participation Disparity
@@ -213,13 +230,21 @@ The governance system demonstrates procedural inclusiveness but requires strengt
 # 7. Recommendations
 Immediate Actions
 1); Standardize pre-meeting briefing documents
+
 2); Improve structured information dissemination
+
 3); Introduce governance orientation workshops
 Medium-Term Actions
+
 4); Establish formal feedback loops on recommendation implementation
+
 5); Develop leadership continuity frameworks
+
 6); Strengthen technical training on institutional policy
 Long-Term Reforms
+
 7); Review representation balance at statutory levels
+
 8); Introduce mentorship systems linking experienced and new leaders
+
 9); Institutionalize annual governance assessment reviews
