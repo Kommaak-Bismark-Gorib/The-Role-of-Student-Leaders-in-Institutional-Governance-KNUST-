@@ -21,17 +21,23 @@ Primarily, this report is designed to provide evidence-based insights to support
 
 This assessment was conducted to evaluate:
 •	The extent of student leaders’ participation in governance processes
+
 •	The degree of influence and legitimacy they possess
+
 •	The institutional climate surrounding student representation
+
 •	Structural barriers that limit effective engagement
+
 •	Reform priorities to strengthen governance collaboration
+
 ## Research Question
+
 The report is organized into five major analytical sections:
 1.	Profile of student leaders
-2.	Participation in governance
-3.	Sources of power and legitimacy
-4.	Governance climate and institutional responsiveness
-5.	Barriers and reform priorities
+3.	Participation in governance
+4.	Sources of power and legitimacy
+5.	Governance climate and institutional responsiveness
+6.	Barriers and reform priorities
 # 2.1 Methodology
 This institutional assessment was conducted using a structured survey administered to student leaders across governance structures at KNUST. A total of 150 student leaders participated in the study. Respondents were drawn from multiple levels of leadership, including Faculty and Departmental Associations, SRC Executives, Hall Executives, College Executives, University Committee or Board Representatives, and other recognized leadership positions. This breadth of representation ensures that the findings reflect experiences from both decentralized (faculty-level) and centralized (university-level) governance platforms.
 A sample size of 150 provides sufficient statistical reliability to detect meaningful institutional patterns. In governance assessments of this nature, such a sample allows the findings to be interpreted as reflective of systemic tendencies rather than isolated experiences. The diversity of leadership roles represented also strengthens the institutional relevance of the results.
